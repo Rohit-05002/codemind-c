@@ -8,6 +8,5 @@ int main()
         if(i%2!=0)
         printf("%d x %d = %d
 ",n,i,n*i);
-    }
-    
-}
+        
+    }}
